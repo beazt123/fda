@@ -1,0 +1,10 @@
+prjStartUp.m
+prjShutdown.m
+data/**
+resources/
+reports/
+src/visualisation
+src/matlab functions/config.m
+plantuml.jar
+**/*.txt
+**/*.mat
